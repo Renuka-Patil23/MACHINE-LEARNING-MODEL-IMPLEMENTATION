@@ -47,3 +47,4 @@ The Machine Learning Model Implementation project demonstrates the practical pro
 
 #Output:- 
 
+<img width="1339" height="742" alt="Image" src="https://github.com/user-attachments/assets/879088e9-5f73-4d5d-aa9f-d50b87be709e" />
